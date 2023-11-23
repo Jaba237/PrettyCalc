@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PrettyCalc" parent="Theme.AppCompat">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryVariant">@color/almostblack</item>
+<!--        <item name="colorOnePrimary">@color/white</item>-->
+    </style>
+
+    <style name="Theme.PrettyCalc" parent="Base.Theme.PrettyCalc" />
+</resources>
